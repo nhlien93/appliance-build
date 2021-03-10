@@ -673,6 +673,7 @@ function migrate_configuration() {
 		/etc/cloud/cloud.cfg.d/99-disable-network-config.cfg
 		/etc/delphix-interface-names.yaml
 		/etc/default/locale
+		/etc/docker/daemon.json
 		/etc/engine-code
 		/etc/engine-uuid
 		/etc/engine.install
